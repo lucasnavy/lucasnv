@@ -1,0 +1,402 @@
+#EXTM3U
+ 
+#EXTINF:-1,STAR + (SOLO EVENTOS)
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1118924
+ 
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-name="ARG| EL TRECE HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/124.png" ,EL TRECE 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/51070
+ 
+#EXTINF:-1 tvg-id="122dtv.ar" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/122.png" ,EL NUEVE
+http://tv.nousiptv.com:8080/enriquecastro/096391655/51072
+ 
+#EXTINF:-1 tvg-id="123dtv.ar" "tvg-logo="http://iptvglobal.site:25461/images/0a1fb1b929f1978ed2a395c7b249d8da.png" ,TELEFE
+http://tv.nousiptv.com:8080/enriquecastro/096391655/51071
+ 
+#EXTINF:-1 tvg-id="120dtv.ar" "tvg-logo="http://iptvglobal.site:25461/images/0d26996fa827a5214a7bbad20285ddf9.png" ,AMERICA
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155829
+ 
+#EXTINF:-1 tvg-id="719dtv.ar" "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png" ,A24
+http://tv.nousiptv.com:8080/enriquecastro/096391655/51073
+ 
+#EXTINF:-1, tvg-id="121dtv.ar" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/121.png" ,TV PUBLICA
+http://tv.nousiptv.com:8080/enriquecastro/096391655/8183
+ 
+#EXTINF:-1, tvg-id="716dtv.ar" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/716.png" ,TN
+http://tv.nousiptv.com:8080/enriquecastro/096391655/18766
+ 
+#EXTINF:-1, tvg-id="717dtv.ar" "tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3bv68hDHnpg1gktGn6qdKS/03fd84d75e4bf52c25e76e89cfef9d5d/06_C5N.png?fm=webp&q=80" ,C5N HD 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155832
+ 
+#EXTINF:-1, tvg-id="718dtv.ar" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/718.png" ,CRONICA
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4188
+ 
+#EXTINF:-1, tvg-id="720dtv.cl" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/720.png" ,CANAL 26
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155833
+ 
+#EXTINF:-1, tvg-id="1715dtv.ar" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/715.png" ,La Nacion +
+http://tv.nousiptv.com:8080/enriquecastro/096391655/7976
+ 
+ 
+#EXTINF:-1, "tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5zbuGK96V1FppjDgF7JpdB/1672ccdba4ca5ac23f3b48537b1af595/21_Garage.png?fm=webp&q=80" ,EL GARAGE TV
+http://tv.nousiptv.com:8080/enriquecastro/096391655/7975
+ 
+#EXTINF:-1, "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/512.png" ,CINE AR
+http://tv.nousiptv.com:8080/enriquecastro/096391655/7981
+ 
+#EXTINF:-1, "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/654.png" ,DEPORTV
+http://tv.nousiptv.com:8080/enriquecastro/096391655/29348
+ 
+ 
+ 
+ 
+#EXTINF:-1, tvg-id="629dtv.cl" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/629.png" ,TYC SPORTS HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155819
+ 
+#EXTINF:-1, tvg-id="1621dtv.ar" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1621.png" ,ESPN 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1090736
+ 
+#EXTINF:-1, tvg-id="622dtv.ar" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1622.png" ,ESPN 2
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1089695
+ 
+#EXTINF:-1, tvg-id="1604dtv.ar" " tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/604_AR.png" ,ESPN PREMIUM
+http://tv.nousiptv.com:8080/enriquecastro/096391655/8330
+ 
+#EXTINF:-1, tvg-id="603dtv.ar" " tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png" ,TNT SPORTS HD 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155814 
+ 
+#EXTINF:-1, tvg-id="1605dtv.ar" "tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4ldZDRBks3tZobn7OFbJFv/0e8234bc1152282a4a9fc544d5c672c0/Fox-Sports.png?fm=webp&q=80" ,FOX SPORTS  
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1090738
+ 
+#EXTINF:-1, tvg-id="606dtv.ar" "tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4aUalIxOYo8Wm9dBLL4Jc/42b4317edaf316d7018cca8d947300b4/Fox-Sports-2.png?fm=webp&q=80" ,FOX SPORTS 2 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1090741
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1, tvg-id="610dtv.ar" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/610.png" ,DIRECTV SPORTS FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1091366
+ 
+ 
+#EXTINF:-1, tvg-id="612directv.cl" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/612.png" ,DIRECTV SPORTS 2 FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1091367
+ 
+ 
+#EXTINF:-1, tvg-id="179directv.cl" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" ,DIRECTV SPORTS PLUS FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1091368
+ 
+ 
+ 
+#EXTINF:-1, "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1622.png" ,TUDN FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/3963
+ 
+#EXTINF:-1, "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1622.png" ,BEIN SPORTS Ñ HD 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155904
+ 
+ 
+ 
+ 
+#EXTINF:-1, tvg-id=""732dtv.ar "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1732.png" ,Discovery Channel 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4069
+ 
+#EXTINF:-1 tvg-id="223dtv.ar" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1223.png" , Ivestigation Discovery 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1156012
+ 
+#EXTINF:-1 tvg-id="229dtv.cl" " tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Tyd8Wxc1Y48d3Fz2myu9B/e4979c8a6e5bdadc10871ff9a93fd5fc/76_DiscoveryH_H.png?fm=webp&q=80" ,Dicovery HOME & HEALTH 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4070
+ 
+#EXTINF:-1 tvg-id="1731dtv.cl" " tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1731.png" ,Discovery Theater 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4073
+ 
+#EXTINF:-1, tvg-id="1738dtv.cl" "tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1Np2cHnQxvzXiPeMMxuJpn/0d128c7aad11e845b0af560b64207aba/90_DiscoveryWorld.png?fm=webp&q=80" ,Discovery World 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4076
+ 
+#EXTINF:-1, "tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png?fm=webp&q=80" ,DISCOVERY SCIENCE
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155818
+ 
+#EXTINF:-1, tvg-id="734dtv.cl" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/734.png" ,Animal Planet
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4067
+ 
+#EXTINF:-1, tvg-id="1742dtv.cl" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/742.png" ,History Channel
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4093
+ 
+#EXTINF:-1, tvg-id="744dtv.cl" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/744.png" ,H2
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4005
+#EXTINF:-1, "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/730.png" ,NAT GEO FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4097
+ 
+#EXTINF:-1, "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1731.png" ,NATGEO MUNDO
+http://tv.nousiptv.com:8080/enriquecastro/096391655/3774
+ 
+#EXTINF:-1, "tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3MQOt9I55Djj4QJ6S8CHll/35993083e010f6578912712b754f94a9/Canal_-_DiscoveryTLC.png?fm=webp&q=80" ,DISCOVERY TLC
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155820
+#EXTINF:-1, "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/746.png" ,FILM & ARTS
+http://tv.nousiptv.com:8080/enriquecastro/096391655/3966
+ 
+#EXTINF:-1, "https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" ,HGTV HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155823
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="1524dtv.co" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/524.png" ,HBO 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4112
+ 
+#EXTINF:-1 tvg-id="525dtv.cl" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/525.png" ,HBO 2 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4095
+ 
+#EXTINF:-1 tvg-id="526dtv.cl" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1532.png" ,HBO PLUS 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4109
+ 
+#EXTINF:-1 " tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/528.png" ,HBO SIGNATURE
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155796
+#EXTINF:-1 " tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/542.png" ,HBO XTREME 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/8226
+ 
+#EXTINF:-1 "https://www.directv.com.ar/content/dam/public-sites/channels/541.png" ,HBO POP 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/8246
+ 
+#EXTINF:-1 " tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/534.png" ,HBO FAMILY 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4017
+ 
+#EXTINF:-1 " tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/540.png" ,HBO MUNDI
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1143815
+#EXTINF:-1 " tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1502_AR.png" ,TNT 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4103
+ 
+#EXTINF:-1 " tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1213.png" ,TNT SERIES FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4050
+ 
+#EXTINF:-1, tvg-id="202dtv.cl" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1204.png" ,STAR Channel
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4022
+ 
+#EXTINF:-1 " tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1507.png" ,CINECANAL FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4068
+ 
+#EXTINF:-1, "https://www.directv.com.ar/content/dam/public-sites/channels/1518.png" ,SPACE FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4099
+#EXTINF:-1, "https://www.directv.com.ar/content/dam/public-sites/channels/520.png" ,I - SAT FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4098
+ 
+#EXTINF:-1 tvg-id="208dtv.cl" "tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1506.png" ,SONY FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4048
+ 
+#EXTINF:-1, " tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1506.png" ,SONY MOVIES
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1143816
+#EXTINF:-1, " tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1510.png" ,PARAMOUNT FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4065
+ 
+#EXTINF:-1 " tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1210.png" ,AMC FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4085
+ 
+ 
+ 
+#EXTINF:-1,A&E FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4037
+ 
+#EXTINF:-1 " tvg-logo="https://i.picasion.com/pic92/ff7e04f714e191ff795392fa777c7f34.gif" ,AXN FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4038
+ 
+#EXTINF:-1 " tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif" ,CINEMAX FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4110
+ 
+#EXTINF:-1 " tvg-logo="https://i.picasion.com/pic92/fadab9b1cc9a337d33df62a95799b4ea.gif" ,FX FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4044
+ 
+#EXTINF:-1 " tvg-logo="https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif" ,WARNER FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4053
+ 
+#EXTINF:-1,SYFY FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4049
+ 
+#EXTINF:-1,TCM
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155806
+#EXTINF:-1 " tvg-logo="https://i.picasion.com/pic92/09ca3f25c64819f5c8517d2b495e9585.gif" ,GOLDEN
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155790
+#EXTINF:-1 " tvg-logo="https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif" ,GOLDEN EDGE
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155791
+#EXTINF:-1 " tvg-logo="https://i.picasion.com/pic92/db3c9ce4ecae857cb6575b4db00c26fb.gif" ,GOLDEN PREMIERE FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4091
+#EXTINF:-1 " tvg-logo="https://i.picasion.com/pic92/273c8e4ba33a1f6fe1596e9d90bd9815.gif" ,GOLDEN PLUS
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1148196
+ 
+ 
+#EXTINF:-1,CINE LATINO
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4136
+#EXTINF:-1,CINEMA DINAMITA
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4142
+#EXTINF:-1,CLARO CINEMA
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4145
+#EXTINF:-1,CINE MANIA
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1148843
+#EXTINF:-1,CINEMA CLASSIC HORROR
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155106
+#EXTINF:-1,CINEMA HORROR
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1156006
+#EXTINF:-1,CINEMA DISNEY PIXAR
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155781
+#EXTINF:-1,CINE ESTELAR
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1156007
+#EXTINF:-1,CINEMA CIENCIA FICCION
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1147993
+#EXTINF:-1,CINE FAMILIA
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1156760
+ 
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4054
+ 
+#EXTINF:-1 " tvg-logo="https://i.picasion.com/pic92/c95b572dc3ef1b0e464273ec25bd7523.gif" ,STUDIO UNIVERSAL FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4100
+ 
+#EXTINF:-1,UNIVERSAL REALITY
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1119205
+#EXTINF:-1,UNIVERSAL CINEMA
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1119206
+#EXTINF:-1,UNIVERSAL CRIME ESTE
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1119203
+#EXTINF:-1,UNIVERSAL PREMIER ESTE
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1119204
+#EXTINF:-1,UNIVERSAL COMEDY
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1119202
+#EXTINF:-1,UNIVERSAL CRIME OESTE
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1119200
+#EXTINF:-1,UNIVERSAL PREMIER OESTE
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1119201
+ 
+#EXTINF:-1 " tvg-logo="https://i.picasion.com/pic92/ceccd6074cd1bb3c8c1478d556ebf5b0.gif" ,DHE
+http://tv.nousiptv.com:8080/enriquecastro/096391655/24180
+#EXTINF:-1,TBS
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4011
+#EXTINF:-1,CINEMA MARVEL STUDIOS
+http://tv.nousiptv.com:8080/enriquecastro/096391655/44728
+ 
+#EXTINF:-1 " tvg-logo="https://i.picasion.com/pic92/4d3e9f2a4a2ac3cc8d818028f5240406.gif" ,LIFETIME HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155873
+#EXTINF:-1,E! ENTERTAINMENT FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4041
+ 
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4075
+ 
+#EXTINF:-1,EL GARAGE HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155864
+ 
+#EXTINF:-1,EL GOURMET FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4042
+ 
+ 
+#EXTINF:-1,FOOD NETWORK FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4057
+ 
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4039
+ 
+#EXTINF:-1,DISTRITO COMEDIA FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4040
+#EXTINF:-1,WOBI TV FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4107
+ 
+#EXTINF:-1,GLITZ FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4045
+ 
+#EXTINF:-1,HOLA TV FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4046
+ 
+ 
+#EXTINF:-1,TOONCAST FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4051
+ 
+#EXTINF:-1,NICKELODEON FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4058
+ 
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4072
+ 
+#EXTINF:-1,CARTOON NETWORK FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4063
+ 
+#EXTINF:-1,DISNEY CHANNEL
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4004
+#EXTINF:-1,DISNEY JR FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4111
+ 
+#EXTINF:-1,NICK JUNIOR
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4194
+#EXTINF:-1,TEENNICK 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/4140
+ 
+ 
+ 
+#EXTINF:-1 channel-id="pluto-5e3ddbd27091820009f86dd9" tvg-id="5e3ddbd27091820009f86dd9" tvg-chno="193" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="Entretenimiento" , MasterChef
+https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
+ 
+#EXTINF:-1 channel-id="pluto-6095ad97351eb0000754c1e6" tvg-id="6095ad97351eb0000754c1e6" tvg-chno="194" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="Entretenimiento" , Hells Kitchen
+https://i.mjh.nz/PlutoTV/6095ad97351eb0000754c1e6-alt.m3u8
+ 
+#EXTINF:-1 channel-id="pluto-5f998c1fc54853000797bacd" tvg-id="5f998c1fc54853000797bacd" tvg-chno="556" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" group-title="Estilo de Vida" , Tastemade
+https://i.mjh.nz/PlutoTV/5f998c1fc54853000797bacd-alt.m3u8
+ 
+#EXTINF:-1 channel-id="pluto-5e46e64dc73db400094b5f0b" tvg-id="5e46e64dc73db400094b5f0b" tvg-chno="195" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="Entretenimiento" , Minuto Para Ganar
+https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
+ 
+#EXTINF:-1 channel-id="pluto-5e8397936791b30007ebb5a7" tvg-id="5e8397936791b30007ebb5a7" tvg-chno="507" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="Comedia" , Pluto TV Humor
+https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
+ 
+ 
+#EXTINF:-1 channel-id="pluto-5e98a911c881310007d7aae2" tvg-id="5e98a911c881310007d7aae2" tvg-chno="160" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="Entretenimiento" , MTV Ridiculousness
+https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
+ 
+ 
+#EXTINF:-1 channel-id="pluto-5ea7215005d66d0007e8128a" tvg-id="5ea7215005d66d0007e8128a" tvg-chno="732" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Kids" , Rugrats
+https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
+ 
+ 
+#EXTINF:-1 channel-id="pluto-5ebaccf1734aaf0007142c86" tvg-id="5ebaccf1734aaf0007142c86" tvg-chno="502" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Comedia" , FailArmy
+https://i.mjh.nz/PlutoTV/5ebaccf1734aaf0007142c86-alt.m3u8
+ 
+#EXTINF:-1 channel-id="pluto-5ed6828192e8b3000743ef61" tvg-id="5ed6828192e8b3000743ef61" tvg-chno="198" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="Entretenimiento" , Wipe Out
+https://i.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
+ 
+#EXTINF:-1 channel-id="pluto-5f2817d3d7573a00080f9175" tvg-id="5f2817d3d7573a00080f9175" tvg-chno="74" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="Películas" , Pluto TV Sci-Fi
+https://i.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
+ 
+#EXTINF:-1 channel-id="pluto-5f29ada4bdaebd000708d49d" tvg-id="5f29ada4bdaebd000708d49d" tvg-chno="709" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="Kids" , Barney
+https://i.mjh.nz/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
+ 
+#EXTINF:-1 channel-id="pluto-5f4d3696d938c900072679fd" tvg-id="5f4d3696d938c900072679fd" tvg-chno="263" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="Curiosidad" , Historias de Ultratumba
+https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
+ 
+#EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-chno="108" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="Entretenimiento" , Los Tres Chiflados
+https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
+ 
+ 
+ 
+ 
+ 
+Comedy Central South Park
+https://i.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
+ 
+#EXTINF:-1 channel-id="pluto-6202ab549654c800076ee13f" tvg-id="6202ab549654c800076ee13f" tvg-chno="733" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="Kids" , Nickelodeon Rocket Power
+https://i.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
+ 
+#EXTINF:-1 channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-chno="726" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Kids" , Bob Esponja Pantalones Cuadrados
+https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+ 
+ 
+#EXTINF:-1 channel-id="pluto-6322099c822bbc00074857db" tvg-id="6322099c822bbc00074857db" tvg-chno="727" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="Kids" , Los Padrinos Mágicos
+https://i.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
+ 
+#EXTINF:-1 channel-id="pluto-638693db857364000781b471" tvg-id="638693db857364000781b471" tvg-chno="159" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" group-title="Entretenimiento" , MTV Con Mi Ex
+https://i.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
+ 
+ 
+#EXTINF:-1 channel-id="pluto-5ddd7c348520b40009c347e2" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="730" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Kids" , Nick Clásico
+ 
+#EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Películas" , Pluto TV Cine Acción
+https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
+ 
+#EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="Películas" , Pluto TV Cine Comedia
+https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
+ 
+#EXTINF:-1 channel-id="pluto-5dcddf1ed95e740009fef7ab" tvg-id="5dcddf1ed95e740009fef7ab" tvg-chno="72" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="Películas" , Pluto TV Cine Terror
+https://i.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
